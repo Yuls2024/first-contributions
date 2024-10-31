@@ -36,7 +36,6 @@ did it different
 - Hein is here
 - Hello Everyone, I am Bhanu :). 
 - Hi, Htain Lin is here.
-- Hi, I'm Yulia K from Toronto, Canada. This is my first contribution (https://github.com/Yuls2024/first-contributions/edit/main/Contributors.md).
 - Hello, I am David
 - Hi, it is Carlos here! [GitHub](https://github.com/cgaritac) [LinkedIn](https://www.linkedin.com/in/carlos-garita-campos-44881a111/) [YouTube](https://www.youtube.com/@cgcode1701)
 - 🚀✨**Hello I am Aung Pyae Son Oo**✨🥳👋
@@ -98,6 +97,7 @@ did it different
 - Salam, Abdul HAseeb here
 - Hello, my name is Matthew and my GH is (https://github.com/mattwheeler-dev)
 - Giuliobmb first contribution!
+- Hello, it's Yulia K from Toronto, Canada. This is my first contribution (https://github.com/Yuls2024/first-contributions)
 - Hello, I am kevin Martinez 
 - Hi, I am Natnael Seifu
 - Namaste, this is Shri. Thanks for beign a part of my first contribution! 
